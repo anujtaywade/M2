@@ -7,6 +7,7 @@ ul[type="cricle"]{
     background-color: bisque;
 }
 
+
 a[target="_Blank"]{
     background-color: thistle;
 }
@@ -40,4 +41,13 @@ a[target="_Blank"]{
 font-family: "Press Start 2P", system-ui;
   font-weight: 400;
   font-style: normal;
+}
+
+.colors{
+    font-size: 100px;
+    background-color: #1a83c0;
+    background-color: goldenrod;
+    background-color: rgb(134, 55, 224);
+    background-color: hsl(60deg, 30%, 80%);
+    
 }
