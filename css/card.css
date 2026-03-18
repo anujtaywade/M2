@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  gap: 50px;
+  padding-left: 60px;
+  padding-bottom: 20px;
+}
+
+.box {
+  border: solid black;
+  width: 300px;
+  display: grid;
+}
+
+.box img {
+  padding-left: 20px;
+}
+
+.box h1 {
+  padding-left: 10px;
+  text-align: center;
+}
+
+.box p {
+  padding: 10px;
+  text-align: justify;
+}
+
+.box button {
+  padding-left: 5px;
+  margin-left: 100px;
+  margin-bottom: 5px;
+}
