@@ -65,13 +65,57 @@ font-family: "Press Start 2P", system-ui;
     height: 200px;
     width: 200px;
     background-color: blue;
-    position: absolute;
+    position: relative;
 }
 
 .box3{
     height: 200px;
     width: 200px;
     background-color: green;
-    position: absolute;
+    position: relative;
     
+}
+
+
+.parent{
+
+}
+.heart{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    position: relative;
+    top: 150px;
+    border-radius: 50% 50% 0 0 ;
+}
+
+.heart2{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    position: absolute;
+   
+}
+.parent{
+    position: relative;
+    transform: rotate(-45deg);
+}
+
+.heart h1{
+    position: absolute;
+    top: 170px;
+    z-index: 1;
+    left:90px;
+    transform: rotate(45deg);
+    font-size: 70px;
+    
+}
+
+.heart3{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    position: absolute;
+    left : 150px;
+    border-radius: 0% 50% 50% 0 ;
 }
