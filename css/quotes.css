@@ -1,0 +1,97 @@
+body{
+    font-size: 25px;
+    text-shadow: 4px 4px 5px rgb(220, 220, 220);
+}
+
+.row{
+    display: flex;
+    gap: 20px;
+}
+
+.center-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#q1{
+    border: 2px solid #000;
+    width: 450px;
+    padding: 20px;
+    background-color: #ff6b6b;
+    font-family: "Iosevka Charon Mono", monospace;
+}
+
+#q2{
+    border: 2px solid #000;
+    width: 450px;
+    padding: 20px;
+    background-color: #4ecdc4;
+    font-family: "Playwrite DK Uloopet Guides", cursive;
+}
+
+#q3{
+    border: 2px solid #000;
+    width: 450px;
+    padding: 20px;
+    background-color: #1a535c;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+#q4{
+    border: 2px solid #000;
+    width: 450px;
+    padding: 20px;
+    background-color: #ff9f1c;
+    font-family: "Rancho", cursive;
+}
+
+#q5{
+    border: 2px solid #000;
+    width: 450px;
+    padding: 20px;
+    background-color: #9b5de5;
+    color: white;
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+#q6{
+    border: 2px solid #000;
+    width: 450px;
+    padding: 20px;
+    background-color: #00bbf9;
+    font-family: "Rubik Pixels", system-ui;
+}
+
+#q7{
+    border: 2px solid #000;
+    width: 450px;
+    padding: 20px;
+    background-color: #f15bb5;
+    font-family: "Bitcount Prop Double", system-ui;
+}
+
+#q8{
+    border: 2px solid #000;
+    width: 450px;
+    padding: 20px;
+    background-color: #00f5d4;
+    font-family: "Rubik Wet Paint", system-ui;
+}
+
+#q9{
+    border: 2px solid #000;
+    width: 450px;
+    padding: 20px;
+    background-color: #fee440;
+    font-family: "Kalam", cursive;
+}
+
+#q10{
+    border: 2px solid #000;
+    width: 450px;
+    padding: 20px;
+    background-color: #f9844a;
+    font-family: "Damion", cursive;
+}
